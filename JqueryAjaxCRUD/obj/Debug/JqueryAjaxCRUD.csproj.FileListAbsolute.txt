@@ -1,0 +1,198 @@
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\ApplicationInsights.config
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\JqueryAjaxCRUD.dll.config
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\JqueryAjaxCRUD.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\JqueryAjaxCRUD.pdb
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csc.exe
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csc.exe.config
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csc.rsp
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csi.exe
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csi.exe.config
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csi.rsp
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.AppContext.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Console.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Diagnostics.Process.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.Compression.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.FileSystem.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.Pipes.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.AccessControl.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Claims.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Threading.Thread.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.ValueTuple.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Xml.XPath.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\vbc.exe
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\vbc.exe.config
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\vbc.rsp
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\VBCSCompiler.exe
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Antlr3.Runtime.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\EntityFramework.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\EntityFramework.SqlServer.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.DependencyCollector.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.Web.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.WindowsServer.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.ApplicationInsights.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Newtonsoft.Json.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Helpers.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Mvc.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Optimization.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Razor.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.Deployment.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.Razor.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\WebGrease.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\EntityFramework.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\EntityFramework.SqlServer.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Helpers.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Mvc.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Optimization.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Razor.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.Deployment.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.Razor.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Newtonsoft.Json.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Antlr3.Runtime.pdb
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.DependencyCollector.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.WindowsServer.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.Web.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.csprojAssemblyReference.cache
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.csproj.CoreCompileInputs.cache
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.csproj.CopyComplete
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.dll
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.pdb
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.Migrations.InitialCreate.resources
+D:\Final Project\New\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.csproj.GenerateResource.cache
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\ApplicationInsights.config
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\JqueryAjaxCRUD.dll.config
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\JqueryAjaxCRUD.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\JqueryAjaxCRUD.pdb
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csc.exe
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csc.exe.config
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csc.rsp
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csi.exe
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csi.exe.config
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\csi.rsp
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.AppContext.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Console.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Diagnostics.Process.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.Compression.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.FileSystem.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.IO.Pipes.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.AccessControl.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Claims.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Security.Principal.Windows.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Threading.Thread.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.ValueTuple.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Xml.XPath.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\vbc.exe
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\vbc.exe.config
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\vbc.rsp
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\VBCSCompiler.exe
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Antlr3.Runtime.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\EntityFramework.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\EntityFramework.SqlServer.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.Agent.Intercept.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.DependencyCollector.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.Web.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.WindowsServer.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.ApplicationInsights.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.Web.Infrastructure.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Newtonsoft.Json.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Diagnostics.DiagnosticSource.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Helpers.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Mvc.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Optimization.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Razor.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.Deployment.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.Razor.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\WebGrease.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\EntityFramework.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\EntityFramework.SqlServer.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Helpers.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Mvc.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Optimization.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.Razor.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.Deployment.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Web.WebPages.Razor.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Newtonsoft.Json.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Antlr3.Runtime.pdb
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\System.Diagnostics.DiagnosticSource.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.DependencyCollector.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.WindowsServer.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.AI.Web.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.csprojAssemblyReference.cache
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.csproj.CoreCompileInputs.cache
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.csproj.CopyComplete
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.dll
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.pdb
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.Migrations.InitialCreate.resources
+E:\IDB Files\Final Project\Practice for Project\12Aug18\JqueryAjaxCRUD\JqueryAjaxCRUD\obj\Debug\JqueryAjaxCRUD.csproj.GenerateResource.cache
